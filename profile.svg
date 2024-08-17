@@ -1,22 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
-  <!-- Arrière-plan avec un dégradé -->
+  <!-- Arrière-plan avec un dégradé bleu -->
   <defs>
     <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3a1c71;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#d76d77;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ffaf7b;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#1e3c72;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2a5298;stop-opacity:1" />
     </linearGradient>
   </defs>
-  <rect width="800" height="400" fill="url(#grad1)" />
-
+  <!-- Rectangle arrondi pour le fond -->
+  <rect width="800" height="400" rx="20" ry="20" fill="url(#grad1)" />
+  
   <!-- Texte du profil -->
-  <text x="20" y="40" font-family="Arial, sans-serif" font-size="24" fill="white">👋 Bonjour, je suis Lin_Dev</text>
-  <text x="20" y="80" font-family="Arial, sans-serif" font-size="16" fill="white">🚀 Développeur passionné | Innovateur | Solutionneur de problèmes</text>
-
-  <text x="20" y="120" font-family="Arial, sans-serif" font-size="14" fill="white">💻 JavaScript | Python | Ruby | React | Node.js | Docker</text>
-  <text x="20" y="150" font-family="Arial, sans-serif" font-size="14" fill="white">🌱 Actuellement : Microservices &amp; Blockchain</text>
-
-  <text x="20" y="190" font-family="Arial, sans-serif" font-size="14" fill="white">📫 Contactez-moi : lin.dev@example.com | @Lin_Dev_Code</text>
-
-  <text x="20" y="230" font-family="Arial, sans-serif" font-size="14" fill="white">⚡ Fun fact : Résolveur d'énigmes et explorateur de technologies émergentes !</text>
+  <text x="20" y="40" font-family="Arial, sans-serif" font-size="24" fill="white">👋 Bonjour, je suis Dorian Soudan</text>
+  <text x="20" y="80" font-family="Arial, sans-serif" font-size="16" fill="white">🚀 Développeur Fullstack | Analyste Programmeur</text>
+  
+  <text x="20" y="120" font-family="Arial, sans-serif" font-size="14" fill="white">💻 HTML, CSS, PHP, MySQL, JS, TS, C++, ReactJS, Laravel, Symfony</text>
+  <text x="20" y="150" font-family="Arial, sans-serif" font-size="14" fill="white">🛠️ WordPress, Tailwind, Bootstrap, Docker, Linux, Git</text>
+  <text x="20" y="180" font-family="Arial, sans-serif" font-size="14" fill="white">🎨 VSCode, PhpStorm, Figma, Lunacy</text>
+  
+  <text x="20" y="220" font-family="Arial, sans-serif" font-size="14" fill="white">📚 Bac+3 Développeur d'Application - L'Idem, Le Soler</text>
+  
+  <text x="20" y="260" font-family="Arial, sans-serif" font-size="14" fill="white">📫 Contact : doriansoudan40@gmail.com | 07.84.83.35.99</text>
+  
+  <text x="20" y="300" font-family="Arial, sans-serif" font-size="14" fill="white">⚡ Points forts : Autodidacte, Relationnel Client, Perfectionniste, Polyvalent, Rigoureux</text>
+  
+  <text x="20" y="340" font-family="Arial, sans-serif" font-size="14" fill="white">🔗 Portfolio : GitHub | GitLab | LinkedIn</text>
 </svg>
