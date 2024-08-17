@@ -11,7 +11,7 @@
   
   <!-- Texte du profil -->
   <text x="20" y="40" font-family="Arial, sans-serif" font-size="24" fill="white">👋 Bonjour, je suis Dorian Soudan</text>
-  <text x="20" y="80" font-family="Arial, sans-serif" font-size="16" fill="white">🚀 Développeur Fullstack | Analyste Programmeur</text>
+  <text x="20" y="80" font-family="Arial, sans-serif" font-size="16" fill="white">🚀 Développeur Fullstack | Ai Artist | Web Designer</text>
   
   <text x="20" y="120" font-family="Arial, sans-serif" font-size="14" fill="white">💻 HTML, CSS, PHP, MySQL, JS, TS, C++, ReactJS, Laravel, Symfony</text>
   <text x="20" y="150" font-family="Arial, sans-serif" font-size="14" fill="white">🛠️ WordPress, Tailwind, Bootstrap, Docker, Linux, Git</text>
