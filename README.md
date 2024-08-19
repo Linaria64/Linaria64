@@ -36,4 +36,4 @@
 
 ---
 
-⭐️ From [@Linaria64](https://github.com/Linaria64)
+⭐️ From [Linaria64](https://github.com/Linaria64)
