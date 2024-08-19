@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Linaria64&label=Vues%20du%20profil&color=0e75b6&style=for-the-badge&border_radius=10" alt="Vues du profil" />
 </p>
-About Me !
+<h2 align="center">About Me !</h2>
 &nbsp;&nbsp;&nbsp;&nbsp;🌌 Explorateur du code et créateur d'univers numériques<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🎨 Passionné de web design et d'art généré par IA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🔭 Je travaille sur l'amélioration de mes compétences en développement web et design UI/UX<br>
