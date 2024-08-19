@@ -28,12 +28,12 @@
 
 ### Statistiques GitHub :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=votre-nom-utilisateur&show_icons=true&locale=fr&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Linaria64r&show_icons=true&locale=fr&layout=compact&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=votre-nom-utilisateur&show_icons=true&locale=fr&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Linaria64&show_icons=true&locale=fr&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=votre-nom-utilisateur&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Linaria64&theme=radical)
 
 ---
 
-⭐️ From [Linaria64](https://github.com/Linaria64)
+⭐️ From [@Linaria64](https://github.com/Linaria64)
