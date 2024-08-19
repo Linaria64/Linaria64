@@ -1,8 +1,4 @@
 
-<div align="center">
-  <div style="position: relative; width: 100vw; height: 100vh;">
-    <img src="https://github.com/Linaria64/Linaria64/raw/main/profile-background.jpg" alt="Fond de profil" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: -1;">
-    <div style="position: relative; z-index: 1; color: white; padding: 20px; background-color: rgba(0,0,0,0.6); border-radius: 15px;">
 
 Bonjour 👋, Je suis Dorian
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DAEF7&center=true&vCenter=true&width=435&lines=D%C3%A9veloppeur+Web+Passionn%C3%A9;En+qu%C3%AAte+d'apprentissage+continu;Explorateur+du+code+num%C3%A9rique)](https://git.io/typing-svg)
