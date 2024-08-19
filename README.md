@@ -1,38 +1,52 @@
-# Bonjour 👋, Je suis [Votre Nom]
+<img src="https://github.com/Linaria64/Linaria64/raw/main/profile-background.jpg" alt="Fond de profil" width="100%">
 
-## Développeur passionné de [Votre Spécialité]
+Bonjour 👋, Je suis Dorian
+Développeur passionné en quête d'apprentissage continu
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Linaria64&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="Vues du profil" />
+</p>
 
-![Vues du profil](https://komarev.com/ghpvc/?username=votre-nom-utilisateur&label=Vues%20du%20profil&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Linaria64&theme=darkhub&no-frame=true&margin-w=15" alt="Trophées GitHub" />
+</p>
 
+🌌 Explorateur du code comme des étoiles dans l'univers numérique
+🔭 Je travaille actuellement sur l'amélioration de mes compétences en développement web
+🌱 J'apprends continuellement les frameworks JavaScript modernes et les meilleures pratiques de développement
+👯 Je cherche à collaborer sur des projets open source innovants
+💬 Échangeons sur le développement web, JavaScript, ou mes expériences d'apprentissage
+⚡ Fun fact : Je code comme je voyage dans l'espace - avec curiosité et sans limites !
+Connectez-vous avec moi :
+<p align="center">
+  <a href="https://linkedin.com/in/votre-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Linaria64"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-- 🔭 Je travaille actuellement sur **[Nom de votre projet en cours]**
-- 🌱 J'apprends actuellement **[Technologie ou compétence en cours d'apprentissage]**
-- 👯 Je cherche à collaborer sur **[Type de projets qui vous intéressent]**
-- 👨‍💻 Tous mes projets sont disponibles sur [votre-portfolio.com](https://votre-portfolio.com)
-- 💬 Posez-moi des questions sur **[Vos domaines d'expertise]**
-- 📫 Comment me joindre : **votremail@example.com**
-- ⚡ Fun fact : **[Un fait amusant sur vous]**
+Langages et Outils :
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+Statistiques GitHub :
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Linaria64&show_icons=true&locale=fr&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
-### Connectez-vous avec moi :
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Linaria64&show_icons=true&locale=fr&theme=radical" alt="GitHub stats" />
+</p>
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/votre-twitter)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-linkedin)
-
-### Langages et Outils :
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<!-- Ajoutez d'autres badges pour vos compétences ici -->
-
-### Statistiques GitHub :
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Linaria64&show_icons=true&locale=fr&layout=compact&theme=radical)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Linaria64&show_icons=true&locale=fr&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Linaria64&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Linaria64&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
-⭐️ From [@Linaria64](https://github.com/Linaria64)
+<p align="center">
+  ⭐️ From <a href="https://github.com/Linaria64">@Linaria64</a>
+</p>
