@@ -1,52 +1,39 @@
-👋 Bonjour, je suis [Votre Nom]
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VotreNomUtilisateur&show_icons=true&theme=radical" alt="Statistiques GitHub">
-</div>
+# Bonjour 👋, Je suis [Votre Nom]
 
-Développeur passionné avec une expertise en [vos domaines d'expertise]. Je suis constamment à la recherche de nouveaux défis et d'opportunités pour apprendre et grandir dans le monde du développement.
+## Développeur passionné de [Votre Spécialité]
 
-🚀 Mes compétences
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <!-- Ajoutez d'autres badges de compétences ici -->
-</p>
+![Vues du profil](https://komarev.com/ghpvc/?username=votre-nom-utilisateur&label=Vues%20du%20profil&color=0e75b6&style=flat)
 
-💼 Projets notables
-<details>
-  <summary>Nom du Projet 1</summary>
+[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=votre-nom-utilisateur&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-  Description brève du projet. Ce que j'ai appris, les technologies utilisées, etc.
+- 🔭 Je travaille actuellement sur **[Nom de votre projet en cours]**
+- 🌱 J'apprends actuellement **[Technologie ou compétence en cours d'apprentissage]**
+- 👯 Je cherche à collaborer sur **[Type de projets qui vous intéressent]**
+- 👨‍💻 Tous mes projets sont disponibles sur [votre-portfolio.com](https://votre-portfolio.com)
+- 💬 Posez-moi des questions sur **[Vos domaines d'expertise]**
+- 📫 Comment me joindre : **votremail@example.com**
+- ⚡ Fun fact : **[Un fait amusant sur vous]**
 
-  [Lien vers le projet](#)
-</details>
+### Connectez-vous avec moi :
 
-<!-- Ajoutez d'autres projets de la même manière -->
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/votre-twitter)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-linkedin)
 
-📫 Me contacter
-N'hésitez pas à me contacter pour des collaborations ou des opportunités !
+### Langages et Outils :
 
-📧 Email : [votre.email@example.com](mailto:votre.email@example.com)
-💼 LinkedIn : [Votre profil LinkedIn](#)
-🐦 Twitter : [@VotreTwitter](#)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- Ajoutez d'autres badges pour vos compétences ici -->
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VotreNomUtilisateur&theme=dark" alt="GitHub Streak">
-</div>
-<!-- CSS personnalisé intégré -->
-<style>
-  .container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
-  }
-  h1 { color: #58a6ff; }
-  h2 { color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 0.3em; }
-  .skills { display: flex; flex-wrap: wrap; gap: 10px; }
-  .skill { background-color: #21262d; padding: 5px 10px; border-radius: 5px; font-size: 14px; }
-  .project { background-color: #0d1117; border: 1px solid #30363d; border-radius: 5px; padding: 15px; margin-bottom: 15px; }
-  a { color: #58a6ff; text-decoration: none; }
-  a:hover { text-decoration: underline; }
-</style>
+### Statistiques GitHub :
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=votre-nom-utilisateur&show_icons=true&locale=fr&layout=compact&theme=radical)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=votre-nom-utilisateur&show_icons=true&locale=fr&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=votre-nom-utilisateur&theme=radical)
+
+---
+
+⭐️ From [@votre-nom-utilisateur](https://github.com/votre-nom-utilisateur)
