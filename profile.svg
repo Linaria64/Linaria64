@@ -3,75 +3,71 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profil GitHub de Dorian Soudan</title>
+    <title>Mon Profil GitHub</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f0f0f0;
-        }
-        .profile-container {
-            width: 800px;
-            height: 400px;
-            margin: 20px auto;
-            background: linear-gradient(135deg, #1e3c72, #2a5298);
-            border-radius: 20px;
-            color: white;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
             padding: 20px;
-            box-sizing: border-box;
-            position: relative;
         }
         h1 {
-            font-size: 24px;
-            margin-bottom: 10px;
+            color: #0366d6;
         }
-        h2 {
-            font-size: 16px;
-            margin-bottom: 20px;
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
         }
-        p {
+        .skill {
+            background-color: #e1e4e8;
+            padding: 5px 10px;
+            border-radius: 5px;
             font-size: 14px;
-            margin-bottom: 10px;
         }
-        .social-icons {
-            position: absolute;
-            bottom: 20px;
-            left: 20px;
+        .projects {
+            margin-top: 20px;
         }
-        .social-icons a {
-            display: inline-block;
-            margin-right: 15px;
-        }
-        .social-icons img {
-            width: 30px;
-            height: 30px;
+        .project {
+            background-color: #f6f8fa;
+            border: 1px solid #e1e4e8;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 15px;
         }
     </style>
 </head>
 <body>
-    <div class="profile-container">
-        <h1>👋 Bonjour, je suis Dorian Soudan</h1>
-        <h2>🚀 Développeur Fullstack | Ai Artist | Web Designer</h2>
-
-        <p>💻 HTML, CSS, PHP, MySQL, JS, TS, C++, ReactJS, Laravel, Symfony</p>
-        <p>🛠️ WordPress, Tailwind, Bootstrap, Docker, Linux, Git</p>
-        <p>🎨 VSCode, PhpStorm, Figma, Lunacy</p>
-
-        <p>📚 Bac+3 Développeur d'Application - L'Idem, Le Soler</p>
-
-        <p>📫 Contact : doriansoudan40@gmail.com | 07.84.83.35.99</p>
-
-        <p>⚡ Points forts : Autodidacte, Relationnel Client, Perfectionniste, Polyvalent, Rigoureux</p>
-
-        <p>🔗 Portfolio : GitHub | GitLab | LinkedIn</p>
-
-        <div class="social-icons">
-            <a href="https://discord.gg/bn2kWaYaSa" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" alt="Discord"></a>
-            <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn"></a>
-            <a href="https://fr.fiverr.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/fiverr.svg" alt="Fiverr"></a>
-            <a href="https://www.instagram.com/lin__dev?igsh=MTVyMzI2bTZydDQ4YQ%3D%3D&utm_source=qr" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram"></a>
-        </div>
+    <h1>👋 Bonjour, je suis [Votre Nom]</h1>
+    
+    <p>Développeur passionné avec une expertise en [vos domaines d'expertise]. Je suis constamment à la recherche de nouveaux défis et d'opportunités pour apprendre et grandir dans le monde du développement.</p><h2>🚀 Mes compétences</h2>
+    <div class="skills">
+        <span class="skill">HTML</span>
+        <span class="skill">CSS</span>
+        <span class="skill">JavaScript</span>
+        <!-- Ajoutez d'autres compétences ici -->
     </div>
+    
+    <h2>💼 Projets notables</h2>
+    <div class="projects">
+        <div class="project">
+            <h3>Nom du Projet 1</h3>
+            <p>Description brève du projet. Ce que j'ai appris, les technologies utilisées, etc.</p>
+            <a href="#">Lien vers le projet</a>
+        </div>
+        <!-- Ajoutez d'autres projets ici -->
+    </div>
+    
+    <h2>📫 Me contacter</h2>
+    <p>N'hésitez pas à me contacter pour des collaborations ou des opportunités !</p>
+    <ul>
+        <li>Email : <a href="mailto:votre.email@example.com">votre.email@example.com</a></li>
+        <li>LinkedIn : <a href="#">Votre profil LinkedIn</a></li>
+        <li>Twitter : <a href="#">@VotreTwitter</a></li>
+    </ul>
 </body>
 </html>
+
+```
