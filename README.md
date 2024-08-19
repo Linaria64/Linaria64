@@ -1,6 +1,4 @@
 <img src="https://github.com/Linaria64/Linaria64/raw/main/profile-background.jpg" alt="Fond de profil" width="100%">
-![Cover](https://github.com/Linaria64/Linaria64/raw/main/profile-background.jpg
-
 Bonjour 👋, Je suis Dorian
 <div align="center">
 
