@@ -2,13 +2,13 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3500&pause=1000&color=3DAEF7&center=true&vCenter=true&width=435&lines=Bonjour+👋;Je+suis+Dorian" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3500&pause=1000&color=3DAEF7&center=true&vCenter=true&width=435&lines=Bonjour+👋;I'm+Dorian" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=3DAEF7&center=true&vCenter=true&width=435&lines=Développeur+Web+%26+Designer;Artiste+IA+Passionné;Explorateur+du+code+numérique" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=3DAEF7&center=true&vCenter=true&width=435&lines=Développeur+Web+%26+Designer;Artiste+IA;Digital+code+explorer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,13 +16,13 @@
   <img src="https://komarev.com/ghpvc/?username=Linaria64&label=Vues%20du%20profil&color=0e75b6&style=for-the-badge&border_radius=10" alt="Vues du profil" />
 </p>
 <h2 align="center">About Me !</h2>
-&nbsp;&nbsp;&nbsp;&nbsp;🌌 Explorateur du code et créateur d'univers numériques<br>
-&nbsp;&nbsp;&nbsp;&nbsp;🎨 Passionné de web design et d'art généré par IA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;🔭 Je travaille sur l'amélioration de mes compétences en développement web et design UI/UX<br>
-&nbsp;&nbsp;&nbsp;&nbsp;🌱 J'apprends continuellement les dernières technologies web et techniques d'IA pour l'art<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🌌 Code explorer and creator of digital worlds<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🎨 Passionate about web design and AI-generated art<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🔭 I'm working on improving my skills in web development and UI/UX design<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🌱 I'm continually learning the latest web technologies and AI techniques for art<br>
 &nbsp;&nbsp;&nbsp;&nbsp;👯 Je cherche à collaborer sur des projets innovants mêlant code, design et IA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;💬 Échangeons sur le développement web, le design UI/UX, ou l'art généré par IA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;⚡ Fun fact : Je crée des mondes numériques le jour et explore l'univers de l'IA la nuit !
+&nbsp;&nbsp;&nbsp;&nbsp;💬 I'm looking to collaborate on innovative projects combining code, design and AI.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;⚡ Fun fact : I create digital worlds by day and explore the world of AI by night!
 
 <h2 align="center">Contact Me !</h2>
 <p align="center">
