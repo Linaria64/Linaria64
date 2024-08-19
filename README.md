@@ -24,7 +24,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;💬 Échangeons sur le développement web, le design UI/UX, ou l'art généré par IA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;⚡ Fun fact : Je crée des mondes numériques le jour et explore l'univers de l'IA la nuit !
 
-Connectez-vous avec moi
+<h2 align="center">Connectez-vous avec moi</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/dorian-soudan-000a6b1b5/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10" alt="LinkedIn"/></a>
   <a href="https://gitlab.com/votre-gitlab"><img src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white&border_radius=10" alt="GitLab"/></a>
@@ -34,7 +34,7 @@ Connectez-vous avec moi
   <a href="https://votre-site-web.com"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=safari&logoColor=white&border_radius=10" alt="Website"/></a>
 </p>
 
-<h2 align="center">Langages et Outils</h2>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&border_radius=10" alt="HTML5"/>
