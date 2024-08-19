@@ -23,6 +23,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;💬 Échangeons sur le développement web, JavaScript, ou mes expériences d'apprentissage<br>
 &nbsp;&nbsp;&nbsp;&nbsp;⚡ Fun fact : Je code comme je voyage dans l'espace - avec curiosité et sans limites !
 
+
+
+
 Connectez-vous avec moi
 <p align="center">
   <a href="https://linkedin.com/in/votre-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
