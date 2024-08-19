@@ -20,8 +20,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🎨 Passionate about web design and AI-generated art<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🔭 I'm working on improving my skills in web development and UI/UX design<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🌱 I'm continually learning the latest web technologies and AI techniques for art<br>
-&nbsp;&nbsp;&nbsp;&nbsp;👯 Je cherche à collaborer sur des projets innovants mêlant code, design et IA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;💬 I'm looking to collaborate on innovative projects combining code, design and AI.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;👯 I'm looking to collaborate on innovative projects combining code, design and AI.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;💬 Let's chat about web development, UI/UX design, or AI-generated art<br>
 &nbsp;&nbsp;&nbsp;&nbsp;⚡ Fun fact : I create digital worlds by day and explore the world of AI by night!
 
 <h2 align="center">Contact Me !</h2>
