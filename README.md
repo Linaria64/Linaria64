@@ -4,7 +4,6 @@
 
 ![Vues du profil](https://komarev.com/ghpvc/?username=votre-nom-utilisateur&label=Vues%20du%20profil&color=0e75b6&style=flat)
 
-[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=votre-nom-utilisateur&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 Je travaille actuellement sur **[Nom de votre projet en cours]**
 - 🌱 J'apprends actuellement **[Technologie ou compétence en cours d'apprentissage]**
