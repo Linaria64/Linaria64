@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Linaria64&label=Vues%20du%20profil&color=0e75b6&style=for-the-badge&border_radius=10" alt="Vues du profil" />
 </p>
-À propos de moi
+About Me !
 &nbsp;&nbsp;&nbsp;&nbsp;🌌 Explorateur du code et créateur d'univers numériques<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🎨 Passionné de web design et d'art généré par IA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🔭 Je travaille sur l'amélioration de mes compétences en développement web et design UI/UX<br>
@@ -24,7 +24,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;💬 Échangeons sur le développement web, le design UI/UX, ou l'art généré par IA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;⚡ Fun fact : Je crée des mondes numériques le jour et explore l'univers de l'IA la nuit !
 
-<h2 align="center">Connectez-vous avec moi</h2>
+<h2 align="center">Contact Me !</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/dorian-soudan-000a6b1b5/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10" alt="LinkedIn"/></a>
   <a href="https://gitlab.com/votre-gitlab"><img src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white&border_radius=10" alt="GitLab"/></a>
@@ -35,7 +35,7 @@
 </p>
 
 
-
+<h2 align="center">My Skills !</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&border_radius=10" alt="HTML5"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&border_radius=10" alt="CSS3"/>
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/-Krea.ai-FF6B6B?style=for-the-badge&logoColor=white&border_radius=10" alt="Krea.ai"/>
   <img src="https://img.shields.io/badge/-PicLumen%20IA-00BFFF?style=for-the-badge&logoColor=white&border_radius=10" alt="PicLumen IA"/>
 </p>
-<h2 align="center">Statistiques GitHub</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Linaria64&show_icons=true&locale=fr&layout=compact&theme=radical&border_radius=10" alt="Top Langs" />
