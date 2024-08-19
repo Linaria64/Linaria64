@@ -17,11 +17,17 @@
 </p>
 À propos de moi
 🌌 Explorateur du code comme des étoiles dans l'univers numérique
+
 🔭 Je travaille actuellement sur l'amélioration de mes compétences en développement web
+
 🌱 J'apprends continuellement les frameworks JavaScript modernes et les meilleures pratiques de développement
+
 👯 Je cherche à collaborer sur des projets open source innovants
+
 💬 Échangeons sur le développement web, JavaScript, ou mes expériences d'apprentissage
+
 ⚡ Fun fact : Je code comme je voyage dans l'espace - avec curiosité et sans limites !
+
 Connectez-vous avec moi
 <p align="center">
   <a href="https://linkedin.com/in/votre-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
