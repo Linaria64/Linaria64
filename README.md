@@ -31,7 +31,7 @@ Connectez-vous avec moi
   <a href="https://www.fiverr.com/votre-fiverr"><img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&border_radius=10" alt="Fiverr"/></a>
   <a href="https://www.instagram.com/lin__dev?igsh=MTVyMzI2bTZydDQ4YQ%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border_radius=10" alt="Instagram"/></a>
   <a href="https://discord.gg/bn2kWaYaSa"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&border_radius=10" alt="Discord"/></a>
-  <a href=" https://lin-dev.vercel.app/"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=safari&logoColor=white&border_radius=10" alt="Website"/></a>
+  <a href="https://lin-dev.vercel.app/"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=safari&logoColor=white&border_radius=10" alt="Website"/></a>
 </p>
 
 <h2 align="center">Langages et Outils</h2>
