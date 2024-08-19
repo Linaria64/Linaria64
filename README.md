@@ -47,9 +47,10 @@
     </style>
 </head>
 <body>
-    <h1>👋 Bonjour, je suis [Votre Nom]</h1>
+    <div>
+  <h1>👋 Bonjour, je suis [Votre Nom]</h1>
     
-    <p>Développeur passionné avec une expertise en [vos domaines d'expertise]. Je suis constamment à la recherche de nouveaux défis et d'opportunités pour apprendre et grandir dans le monde du développement.</p>
+    <h2>Développeur passionné avec une expertise en [vos domaines d'expertise]. Je suis constamment à la recherche de nouveaux défis et d'opportunités pour apprendre et grandir dans le monde du développement.</h2>
     
     <h2>🚀 Mes compétences</h2>
     <div class="skills">
@@ -73,6 +74,8 @@
         <li>💼 LinkedIn : <a href="#">Votre profil LinkedIn</a></li>
         <li>🐦 Twitter : <a href="#">@VotreTwitter</a></li>
     </ul>
+        <div/>
+  
 </body>
 </html>
 
