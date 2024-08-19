@@ -28,7 +28,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dorian-soudan-000a6b1b5/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10" alt="LinkedIn"/></a>
   <a href="https://gitlab.com/Dorian66"><img src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white&border_radius=10" alt="GitLab"/></a>
-  <a href="https://www.fiverr.com/votre-fiverr"><img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&border_radius=10" alt="Fiverr"/></a>
+  <a href="https://fr.fiverr.com/lin_dev/buying?source=avatar_menu_profile"><img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&border_radius=10" alt="Fiverr"/></a>
   <a href="https://www.instagram.com/lin__dev?igsh=MTVyMzI2bTZydDQ4YQ%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border_radius=10" alt="Instagram"/></a>
   <a href="https://discord.gg/bn2kWaYaSa"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&border_radius=10" alt="Discord"/></a>
   <a href="https://lin-dev.vercel.app/"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=safari&logoColor=white&border_radius=10" alt="Website"/></a>
