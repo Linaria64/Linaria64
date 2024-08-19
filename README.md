@@ -1,4 +1,4 @@
-<img src="https://github.com/Linaria64/Linaria64/raw/main/profile-background.jpg" alt="Fond de profil" width="100%">
+<div>  <img src="https://github.com/Linaria64/Linaria64/raw/main/profile-background.jpg" alt="Fond de profil" width="100%">
 Bonjour 👋, Je suis Dorian
 <div align="center">
 
@@ -56,7 +56,4 @@ Statistiques GitHub
   ⭐️ From <a href="https://github.com/Linaria64">@Linaria64</a>
 </p>
 
-<!-- Instructions pour ajouter l'image de fond plus tard :
-Uploadez votre image de fond dans ce dépôt et nommez-la 'profile-background.jpg'.
-Ajoutez la ligne suivante en haut de ce README :<img src="https://github.com/Linaria64/Linaria64/raw/main/profile-background.jpg" alt="Fond de profil" width="100%">
--->
+<div/>
